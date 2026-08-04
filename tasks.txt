@@ -1,4 +1,2 @@
-# To-Do List
-Complete Git lesson
-Review HTML basics
-Start JavaScript exercises
+npm install readline-sync
+const readline = require('readline-sync');
